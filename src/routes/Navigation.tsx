@@ -30,7 +30,7 @@ export const Navigation = () => {
                             <Route 
                                 key={path} 
                                 path={path} 
-                                element={<Component/>} 
+                                element={<Component/>}
                             />
                         ))
                     }
